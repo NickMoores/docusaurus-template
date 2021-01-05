@@ -8,7 +8,7 @@ npx @docusaurus/init@latest init [name] 'https://github.com/itn-ltd/docusaurus-t
 
 # Website
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator, with an ITN-branded version of the Docusaurus classic theme.
 
 ## Installation
 
