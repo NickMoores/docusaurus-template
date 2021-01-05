@@ -1,3 +1,11 @@
+# Getting Started
+
+You can get started with this template by using the docusaurus-init package:
+
+```console
+npx @docusaurus/init@latest init [name] 'https://github.com/itn-ltd/docusaurus-template.git'
+```
+
 # Website
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
