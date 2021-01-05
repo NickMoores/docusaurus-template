@@ -3,7 +3,7 @@
 You can get started with this template by using the docusaurus-init package:
 
 ```console
-npx @docusaurus/init@latest init [name] 'https://github.com/itn-ltd/docusaurus-template.git'
+npx @docusaurus/init@latest init <name> 'https://github.com/itn-ltd/docusaurus-template.git'
 ```
 
 # Website
